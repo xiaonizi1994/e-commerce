@@ -74,14 +74,14 @@
 	text-align:right;
 	padding-right:29px;
  }
- .nav_box{
+.nav_box{
 	 background:#0066CC;
 	 height:35px;
 	 color:#fff;
 	font-family:"Microsoft YaHei","微软雅黑";
-	overflow:hidden;
+	/**overflow:hidden;*/
 	 }
- .shopClass{
+.shopClass{
 	 width:190px;
 	
 	 position:relative;
@@ -291,7 +291,7 @@
 .shopItem_text p{
 	color:#ff7300;}
 .shopItem_text h3{
-	font-family:"Microsoft YaHei","微软雅黑"
+	font-family:"Microsoft YaHei","微软雅黑";
 	font-size:16px;
 	font-weight:normal;
 	color:#181818;
@@ -318,7 +318,7 @@
 	padding-top:30px;}
 .web img{
 	margin:0 12px;}
-/*
+
 .product{
 	overflow:hidden;}
 	
@@ -360,7 +360,7 @@
 .navCont_list  a{
 	font-size:12px;}
 	
-右侧
+/*右侧*/
 
 .h_7{
 	height:7px;
@@ -368,12 +368,12 @@
 	display:block;
 	overflow:hidden;
 	}	
-右侧标题
+/*右侧标题*/
 .product_tittle{
 	height:34px;
 	border-bottom:#cccccc solid 2px;}
 .product_tittle h3{
-	widht:180px;
+	width:180px;
 	border-bottom:#096dba solid 2px;
 	height:34px;
 	line-height:34px;
@@ -401,5 +401,5 @@
 	font-weight:bold;
 	padding-top:10px;}
 .stars{
-	widht:13px;
-	}*/
+	width:13px;
+	}
