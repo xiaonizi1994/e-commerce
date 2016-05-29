@@ -58,21 +58,13 @@ input{
 	float:left;}
 .fr{
 	float:right;}
-/*.clear{clear:both;height:0;overflow:hidden;} */
-/*.clearfix:after { 
-visibility: hidden; 
-display: block; 
-font-size: 0; 
-content: " "; 
-clear: both; 
-height: 0; 
-}* html .clearfix { zoom: 1; } /* IE6 */ 
-/**:first-child+html .clearfix { zoom: 1; } /* IE7 */ */*/
+.clear{clear:both;height:0;overflow:hidden;} 
+.clearfix:after{visibility: hidden;display: block;font-size: 0;content: " ";clear: both;height: 0;} 
 
 
-/*p{
+p{
 	font-family:"宋体";
-	font-size:12px;}*/
-/*.hid{
-	visibility:hidden;}*/
+	font-size:12px;}
+.hid{
+	visibility:hidden;}
 
