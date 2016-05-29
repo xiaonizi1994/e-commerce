@@ -109,7 +109,7 @@
 .nav a{
 	padding:0 35px;
 	height:35px;
-	display:inline-block;
+	display:block;
 	color:#fff;
 	}
 .nav .active{
